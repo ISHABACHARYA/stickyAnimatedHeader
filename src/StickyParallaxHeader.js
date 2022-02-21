@@ -566,7 +566,7 @@ const FullWidthFoodDetails = ({
               justifyContent: "center",
             }}>
             <View style={{ justifyContent: "space-between" }}>
-              <Text
+             {/* <Text
                 style={{
                   fontWeight: "bold",
                   color: "#8A8A8A",
@@ -575,7 +575,7 @@ const FullWidthFoodDetails = ({
                   paddingTop: 5,
                 }}>
                 {desc}
-              </Text>
+              </Text> */}
               <Text
                 style={{
                   fontWeight: "bold",
